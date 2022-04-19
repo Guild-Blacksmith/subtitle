@@ -1,5 +1,5 @@
 :root {
-    --purple: rgba(107, 68, 131,.7);
+    --purple: rgba(107, 68, 131);
 
     
 }
@@ -10,7 +10,6 @@ html {
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 19px;
     line-height: 1.8em;
     overflow-x: hidden;
 }
@@ -212,6 +211,7 @@ a {
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto 135px;
+    font-size: 19px;
     
 }
 
